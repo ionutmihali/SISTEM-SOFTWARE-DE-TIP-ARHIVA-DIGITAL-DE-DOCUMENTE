@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAbonament" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CAbonament.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAbonamentPremium" Collapsed="true">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CAbonamentPremium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAbonamentStandard" Collapsed="true">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CAbonamentStandard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDocument" Collapsed="true">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAAAAAAAACAAAAAAEAAAAAAAAAARIgEA=</HashCode>
+      <FileName>CDocument.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDocumentPrivat" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CDocumentPrivat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDocumentPublic" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CDocumentPublic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExceptie" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CExceptie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFolder" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFolder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFolderCos" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFolderCos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFolderFavorite" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFolderFavorite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFolderUser" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFolderUser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CServer" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAIAABAAAAAAAAAAAAAgAAgBQAAAAAAA=</HashCode>
+      <FileName>CServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAbonament" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAbonament.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDocument" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARIgAA=</HashCode>
+      <FileName>IDocument.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IExceptie" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IExceptie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IFolder" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFolder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IServer" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAgBQAAAAAAA=</HashCode>
+      <FileName>IServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
