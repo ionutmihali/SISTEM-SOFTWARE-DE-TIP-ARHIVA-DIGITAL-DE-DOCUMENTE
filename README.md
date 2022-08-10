@@ -1,0 +1,2 @@
+# Server-SISTEM-SOFTWARE-DE-TIP-ARHIVA-DIGITAL-DE-DOCUMENTE
+Proiectul se va baza în principal pe comunicarea dintre un client și un server de arhive de documente. Clientul va fi implementat ca o interfață grafică, va trimite cereri către server, iar acesta îi va răspunde prin soluționarea acestora. Printre cererile clientului se numără: autentificarea în sistem, inserarea, ștergerea și modificarea de arhive, accesarea arhivelor publice ale altor utilizatori.
